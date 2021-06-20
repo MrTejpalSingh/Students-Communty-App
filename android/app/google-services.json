@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "936961695626",
+    "project_id": "students-community-app-4cbd5",
+    "storage_bucket": "students-community-app-4cbd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936961695626:android:67118e45a8b0f60b51f273",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936961695626-7munsu76pl5ivk01pe2coo7duo1vkhrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "643c5e8f1369e3e7656caba9c4f266d542daef13"
+          }
+        },
+        {
+          "client_id": "936961695626-1mut5rq9bdvqr60rvbvg5u456nfbb10h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACgqWppaSPoM22JQN6FCmCUow31xd6Hvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936961695626-1mut5rq9bdvqr60rvbvg5u456nfbb10h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
