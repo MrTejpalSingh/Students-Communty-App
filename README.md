@@ -2,11 +2,11 @@
 # Students-Communty-App
 =======
 Flutter Android & iOS Social Network App like Instagram using Firebase Firestore.
-Developed by: Coding Cafe
+Developed by: Tejpal Singh Mistri, Shubham Ingale, Shrawani Deshpande
 
-BuddiesGram:
+Students-Communty-App:
 A Flutter Instagram Clone App with Firebase Firestore & with Firebase Cloud Functions for Real Time Push Notifications.
 
 Mail us at:
-alizeb875@gmail.com
->>>>>>> 73939ed (Initial state.)
+studentscommunityapp@gmail.com
+>>>>>>> (Initial state.)
